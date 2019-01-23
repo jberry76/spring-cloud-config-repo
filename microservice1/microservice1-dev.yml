@@ -1,1 +1,4 @@
-microservice1.prop1: "this is mservice1_pro1 dev profile"
+example.property: "I am a default configuration in git repo - jberry76"
+utm:
+  prop_1: "Proprieta #1 default in git repository"
+  prop_2: "Proprieta #2 default in git repository"
