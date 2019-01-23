@@ -1,1 +1,4 @@
-microservice1.prop1: "this is mservice1_pro1 production profile"
+example.property: "I am a production configuration in git repo - jberry76"
+utm:
+  prop_1: "Proprieta #1 production profile in git repository"
+  prop_2: "Proprieta #2 production profile in git repository"
