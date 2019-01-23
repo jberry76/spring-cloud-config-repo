@@ -1,4 +1,4 @@
-example.property: "I am a default configuration in git repo - jberry76"
+example.property: "I am a development configuration in git repo - jberry76"
 utm:
-  prop_1: "Proprieta #1 default in git repository"
-  prop_2: "Proprieta #2 default in git repository"
+  prop_1: "Proprieta #1 development profile in git repository"
+  prop_2: "Proprieta #2 development profile in git repository"
