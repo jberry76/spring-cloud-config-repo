@@ -1,4 +1,4 @@
 example.property: "I AM A PROD PROPERTY OVERRIDE"
 utm:
   prop_1: "Proprieta #1 default"
-  prop_2: "Proprieta #2 default"
+  prop_2: "Proprieta #2 default "
