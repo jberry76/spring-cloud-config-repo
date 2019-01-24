@@ -1,4 +1,4 @@
 example.property: "I AM A PROD PROPERTY OVERRIDE"
 utm:
-  prop_1: "Proprieta #1 develop Modificata a run time "
-  prop_2: "Proprieta #2 develop "
+  prop_1: "Proprieta #1 develop Modificata a run time 2"
+  prop_2: "Proprieta #2 develop --- anche questa è modificata a runtime"
