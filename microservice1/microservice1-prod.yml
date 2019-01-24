@@ -1,4 +1,4 @@
-example.property: "I am a production configuration in git repo - jberry76"
+example.property: "I AM A PROD PROPERTY OVERRIDE"
 utm:
-  prop_1: "Proprieta #1 production profile in git repository"
-  prop_2: "Proprieta #2 production profile in git repository"
+  prop_1: "Proprieta #1 production"
+  prop_2: "Proprieta #2 production"
