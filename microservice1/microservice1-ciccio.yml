@@ -1,4 +1,4 @@
-example.property2: "Microservice12 - ciccio - property file - I AM A PROD PROPERTY OVERRIDE"
-utm2:
+ciccio.example.property2: "Microservice12 - ciccio - property file - I AM A PROD PROPERTY OVERRIDE"
+ciccio.utm2:
   prop_12: "Microservice12 - ciccio - property file - Proprieta #1 develop Modificata a run time 2 (10*)"
   prop_22: "Microservice12 - ciccio - property file - Proprieta #2 develop --- anche questa è modificata a runtime (9)"
