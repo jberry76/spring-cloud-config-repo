@@ -1,0 +1,4 @@
+example.property: "Microservice2 - property file - I AM A PROD PROPERTY OVERRIDE"
+utm:
+  prop_1: "Microservice2 - property file - Proprieta #1 production "
+  prop_2: "Microservice2 - property file - Proprieta #2 production " 
