@@ -3,4 +3,4 @@ utm2:
   prop_12: "Microservice12 - ciccio - property file - Proprieta #1 develop Modificata a run time 2 (10*)"
   prop_22: "Microservice12 - ciccio - property file - Proprieta #2 develop --- anche questa è modificata a runtime (9)"
   server_name: git_Server
-  port_port: 1026
+  server_port: 1026
