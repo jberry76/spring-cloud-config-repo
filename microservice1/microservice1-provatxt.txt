@@ -1,0 +1,3 @@
+sono un file per prova.txt
+non ci sono property
+non credo che funzioni....spring boot 
