@@ -1,14 +1,10 @@
-prova:
-	proo: 33
-
 configuration:
   property: 
     _name: LOGS
     _value: "/home/utm/log"
-    _name: APP_NAME
-    _value: utm
-  appender: 
-    layout: 
-      Pattern: "%black(%d{ISO8601}) %highlight(%-5level) [%blue(%t)] %yellow(%C{1.}): %msg%n%throwable"
-        _class: "ch.qos.logback.classic.PatternLayout"
-        _name: Console
+ appender: 
+   layout: 
+    Pattern: "%black(%d{ISO8601}) %highlight(%-5level) [%blue(%t)] %yellow(%C{1.}): %msg%n%throwable"
+    _class: "ch.qos.logback.classic.PatternLayout"
+   _name: Console
+   _class: "ch.qos.logback.core.ConsoleAppender"    
