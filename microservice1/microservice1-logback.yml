@@ -1,4 +1,7 @@
-configuration: 
+prova:
+	proo: 33
+
+configuration:
   property: 
     _name: LOGS
     _value: "/home/utm/log"
