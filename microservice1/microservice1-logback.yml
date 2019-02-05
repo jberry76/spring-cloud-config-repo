@@ -1,7 +1,7 @@
 configuration:
   property:
-    name: LOGS
-    value: "/home/utm/log"
+    _name: LOGS
+    _value: "/home/utm/log"
   appender:
     layout:
       Pattern: "%black(%d{ISO8601}) %highlight(%-5level) [%blue(%t)] %yellow(%C{1.}): %msg%n%throwable"
