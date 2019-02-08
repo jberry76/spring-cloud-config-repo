@@ -2,18 +2,18 @@ catalog:
   name: "Nome book" 
   book:
     - 
+      id: "bk101"
       author: "Coglia, Matt"
       title: "Developer s Guide"
       genre: "Computer"
       price: "44.95"
       publishDate: "2000-10-01"
       description: "An in-depth look at creating applications"
-      id: "bk101"
     - 
+      id: "bk101"
       author: "Coglia, Matt2"
       title: "Developer s Guide"
       genre: "Computer"
       price: "44.95"
       publishDate: "2000-10-01"
       description: "An in-depth look at creating applications"
-      id: "bk101"
