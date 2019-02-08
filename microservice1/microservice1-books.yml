@@ -93,7 +93,7 @@ catalog:
     book:
       id: bk111
       author: O'Brien, Tim
-      title: MSXML3: A Comprehensive Guide
+      title: 'MSXML3: A Comprehensive Guide'
       genre: Computer
       price: 36.95
       publish_date: 2000-12-01
@@ -102,7 +102,7 @@ catalog:
     book:
       id: bk112
       author: Galos, Mike
-      title: Visual Studio 7: A Comprehensive Guide
+      title: 'Visual Studio 7: A Comprehensive Guide'
       genre: Computer
       price: 49.95
       publish_date: 2001-04-16
