@@ -84,7 +84,7 @@ catalog:
     book:
       id: bk110
       author: O'Brien, Tim
-      title: Microsoft .NET: The Programming Bible
+      title: 'Microsoft .NET: The Programming Bible'
       genre: Computer
       price: 36.95
       publish_date: 2000-12-09
