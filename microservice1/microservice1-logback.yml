@@ -1,10 +1,10 @@
 configuration:
   property:
-    _name: LOGS
-    _value: "/home/utm/log"
+    name: LOGS
+    value: "/home/utm/log"
   appender:
     layout:
       Pattern: "%black(%d{ISO8601}) %highlight(%-5level) [%blue(%t)] %yellow(%C{1.}): %msg%n%throwable"
-      _class: "ch.qos.logback.classic.PatternLayout"
-    _name: Console
-    _class: "ch.qos.logback.core.ConsoleAppender"
+      class: "ch.qos.logback.classic.PatternLayout"
+    name: Console
+    class: "ch.qos.logback.core.ConsoleAppender"
