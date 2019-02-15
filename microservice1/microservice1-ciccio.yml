@@ -1,6 +1,6 @@
 example.property2: "Microservice12 - ciccio - property file - I AM A PROD PROPERTY OVERRIDE"
 utm2:
-  prop_12: "Microservice12 - ciccio - property file - Proprieta #1 develop Modificata a run time 2 (10*)"
-  prop_22: "Microservice12 - ciccio - property file - Proprieta #2 develop --- anche questa è modificata a runtime (9)"
+  prop_12: "Microservice12 - ciccio - property file - Proprieta #1 develop Modificata a run time 2 (10*) --- Modificato a runtime"
+  prop_22: "Microservice12 - ciccio - property file - Proprieta #2 develop --- anche questa è modificata a runtime (9) --- Modificato a runtime"
   server_name: git_Server
   server_port: 1026
