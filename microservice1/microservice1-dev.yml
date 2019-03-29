@@ -1,4 +1,4 @@
-my_prop.prop_1: Prop Ciccio di prop1
+my_prop.prop_1: ${ENV_PROP_1}
 my_prop.prop_2: ${my_prop.prop_1}- concatenato
 example.property: "Microservice1 - property file - I AM A PROD PROPERTY OVERRIDE"
 utm:
