@@ -1,5 +1,5 @@
-my_prop.prop_1:"Prop Ciccio"
-my_prop.prop_2:{my_prop.prop_1}-" concatenato"
+my_prop.prop_1: Prop Ciccio di prop1
+my_prop.prop_2: ${my_prop.prop_1}- concatenato
 example.property: "Microservice1 - property file - I AM A PROD PROPERTY OVERRIDE"
 utm:
   prop_1: "Microservice1 - property file - Proprieta #1 develop Modificata a run time 2 (10*)"
