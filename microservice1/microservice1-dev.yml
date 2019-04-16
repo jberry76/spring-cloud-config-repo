@@ -1,5 +1,5 @@
 my_prop.prop_1: ${ENV_PROP_1}
-my_prop.prop_2: ${my_prop.prop_1}- concatenato
+my_prop.prop_2: concatenato
 my_prop.rest_url : http://${ENV_HOST}:${ENV_PORT}
 example.property: "Microservice1 - property file - I AM A PROD PROPERTY OVERRIDE"
 utm:
